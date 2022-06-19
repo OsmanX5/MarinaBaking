@@ -13,7 +13,7 @@ LightmapParameters:
   irradianceBudget: 128
   irradianceQuality: 8192
   backFaceTolerance: 0
-  isTransparent: 0
+  isTransparent: 1
   modellingTolerance: 0.01
   systemTag: -1
   edgeStitching: 1
