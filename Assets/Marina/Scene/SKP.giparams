@@ -8,19 +8,19 @@ LightmapParameters:
   m_PrefabAsset: {fileID: 0}
   m_Name: SKP
   serializedVersion: 3
-  resolution: 1
+  resolution: 2
   clusterResolution: 0.5
   irradianceBudget: 128
   irradianceQuality: 8192
   backFaceTolerance: 0
   isTransparent: 1
-  modellingTolerance: 0.01
+  modellingTolerance: 0.031
   systemTag: -1
   edgeStitching: 1
   blurRadius: 2
   directLightQuality: 64
   antiAliasingSamples: 8
-  pushoff: 0.0001
+  pushoff: 0.052
   bakedLightmapTag: -1
   limitLightmapCount: 0
   maxLightmapCount: 1

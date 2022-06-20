@@ -42,7 +42,12 @@ PrefabInstance:
     - target: {fileID: 1923049177445813726, guid: 20019b39a3af9e34a97d044aae0add25,
         type: 3}
       propertyPath: m_Intensity
-      value: 1
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1923049177445813726, guid: 20019b39a3af9e34a97d044aae0add25,
+        type: 3}
+      propertyPath: m_BounceIntensity
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1958608182055451458, guid: 20019b39a3af9e34a97d044aae0add25,
         type: 3}
