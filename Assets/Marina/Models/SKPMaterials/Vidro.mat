@@ -10,6 +10,7 @@ Material:
   m_Name: Vidro
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ValidKeywords:
+  - _ALPHAPREMULTIPLY_ON
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -83,7 +84,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _Blend: 0
+    - _Blend: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -105,14 +106,14 @@ Material:
     - _Smoothness: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SrcBlend: 5
+    - _SrcBlend: 1
     - _Surface: 1
     - _UVSec: 0
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 0.20264257, g: 0.3301887, b: 0.17288181, a: 0.50980395}
-    - _Color: {r: 0.20264253, g: 0.33018863, b: 0.17288178, a: 0.50980395}
+    - _BaseColor: {r: 0.28081167, g: 0.3207547, b: 0.27082592, a: 0.50980395}
+    - _Color: {r: 0.28081164, g: 0.32075468, b: 0.2708259, a: 0.50980395}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []

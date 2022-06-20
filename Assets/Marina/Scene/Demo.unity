@@ -8272,6 +8272,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2390743442725241381, guid: e0af641453feb5246b718a7f471604bd,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a4204d1721a2c54a9a757850af2aa51, type: 2}
     - target: {fileID: 2395461820912354285, guid: e0af641453feb5246b718a7f471604bd,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8761,6 +8766,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3190771235024184105, guid: e0af641453feb5246b718a7f471604bd,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3215281335349827473, guid: e0af641453feb5246b718a7f471604bd,
         type: 3}
@@ -12490,7 +12500,7 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
-  m_ShadowAngle: 0
+  m_ShadowAngle: 21.6
 --- !u!4 &508845957
 Transform:
   m_ObjectHideFlags: 0
@@ -13954,6 +13964,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393581585422446115, guid: 2f850b6605907034cb6f4d60799ba0a0,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393581585422446115, guid: 2f850b6605907034cb6f4d60799ba0a0,
+        type: 3}
+      propertyPath: m_BoxSize.x
+      value: 3.5321128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393581585422446115, guid: 2f850b6605907034cb6f4d60799ba0a0,
+        type: 3}
+      propertyPath: m_BoxOffset.x
+      value: -0.1376437
+      objectReference: {fileID: 0}
+    - target: {fileID: 8393581585422446115, guid: 2f850b6605907034cb6f4d60799ba0a0,
+        type: 3}
+      propertyPath: m_IntensityMultiplier
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f850b6605907034cb6f4d60799ba0a0, type: 3}
